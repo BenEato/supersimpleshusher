@@ -1,0 +1,6 @@
+main.py
+setup.py
+aviv.egg-info/PKG-INFO
+aviv.egg-info/SOURCES.txt
+aviv.egg-info/dependency_links.txt
+aviv.egg-info/top_level.txt
