@@ -1,3 +1,3 @@
 #!/bin/sh
 
-nvlc ./music.opus
+cvlc -q --loop /home/pi/aviv/music.opus 2> /dev/null
