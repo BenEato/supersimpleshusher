@@ -5,8 +5,8 @@ Cannot be ran as root
 
 
 Installation:
-Download + unzip to directory
-Pip install dependencies (flask)
-Install vlc (apt install vlc)
-Run code (python3 main.py)
+Download + unzip to directory /n
+Pip install dependencies (flask) /n
+Install vlc (apt install vlc) /n
+Run code (python3 main.py) /n
 Access frontend via web browser (deviceip:5000)
